@@ -4,7 +4,9 @@ Hi 👋 My name is Guilherme Pallas
 Game Developer
 --------------
 
-I've been working as a gamedev for 8 years (about 4.5 years with Unity and 3.5 years with Unreal) as the main programmer of the teams, and have worked mostly on systems and mechanics and occasionally created actor's animation controllers/flow and UI. I'm looking to learn new skills and hone my foundations, learning to use .Net to create APIs.
+I've been working as a gamedev for 8 years (about 4.5 years with Unity and 3.5 years with Unreal) as the main programmer of the teams, and have worked primarily creating mechanics and gameplay systems, but have also used extensively both Unity’s and Unreal’s Animation, UI and AI systems.
+
+I'm looking to learn new skills and hone my foundations, learning to use .Net to create APIs.
 
 * 🌍  I'm based in São Paulo, São Paulo, Brazil
 * 🖥️  See my portfolio at [this Youtube link](http://https://youtu.be/6l7FqAJEf68)
